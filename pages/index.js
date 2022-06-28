@@ -373,12 +373,12 @@ export default function Home() {
           {renderTabs()}
         </div>
         <div>
-          <img className={styles.image} src="/landscape.jpg" />
+          <img className={styles.image} src="/aavegotchi.webp" />
         </div>
       </div>
 
       <footer className={styles.footer}>
-        Made with &#10084; by Crypto Devs
+        Made with &#10084; by Alexander LaKarm
       </footer>
     </div>
   );
